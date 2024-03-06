@@ -45,4 +45,5 @@ This project is a Library Management System developed in Java, following the MVC
   • Retrieve book details  
   # Add Book
   
-    ![Add Book](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/21c56acf-356e-4c78-99d6-3458b90f79e1)
+  
+
