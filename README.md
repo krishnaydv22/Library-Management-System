@@ -9,12 +9,12 @@ This project is a Library Management System developed in Java, following the MVC
 
 # Entities
 # Book
-• Attributes:-     
+## • Attributes:-     
     • bookName: Name of the book  
     • bookPrice: Price of the book  
     • authorName: Name of the author  
-• Methods:-  
-      • getBookName(): Returns the name of the book  
+## • Methods:-  
+    • getBookName(): Returns the name of the book  
     • setBookName(String bookName): Sets the name of the book  
     • getBookPrice(): Returns the price of the book  
     • setBookPrice(double bookPrice): Sets the price of the book  
@@ -23,12 +23,12 @@ This project is a Library Management System developed in Java, following the MVC
     • toString(): Returns a string representation of the book  
 
 # Library  
-• Attributes:-    
+## • Attributes:-    
     • libraryName: Name of the library    
     • libraryAddress: Address of the library    
     • pincode: Pincode of the library location  
     • books: List of books in the library  
-• Methods:-    
+## • Methods:-    
     • getBooks(): Returns the list of books in the library  
     • setBooks(List<Book> books): Sets the list of books in the library  
     • getLibraryName(): Returns the name of the library  
@@ -38,13 +38,22 @@ This project is a Library Management System developed in Java, following the MVC
     • getPincode(): Returns the pincode of the library location  
     • setPincode(int pincode): Sets the pincode of the library location  
 
-  # Functionality  
+  ## Functionality  
   • Add a book to the library  
   • Update book details  
   • Remove a book from the library  
   • Retrieve book details  
-  # Add Book
-  ![Add Book](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/4b15fe1a-c427-4123-acd1-282f67d6c5e8)
+  # Screen Shots
+  ### To Add Book  
+  ![Add Book](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/4b15fe1a-c427-4123-acd1-282f67d6c5e8)  
+  ### To Remove Book
+  ![Delete ss](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/7144081d-71e7-4179-a7d8-701ebc8d054c) 
+  ### To Fetch Book
+![getbook ss](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/1f6db0e3-1039-49cc-915e-045b2acefedc)  
+### To Update Book Record
+![Update Ss](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/e2e49d41-2870-4a66-9136-792d0cfaeefb)  
+
+  
 
   
   
