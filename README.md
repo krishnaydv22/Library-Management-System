@@ -43,6 +43,17 @@ This project is a Library Management System developed in Java, following the MVC
   • Update book details  
   • Remove a book from the library  
   • Retrieve book details  
+# How To Run
+ 1. **Clone the Repository:** Users can clone your repository to their local machine using the following command:  
+     git clone https://github.com/krishnaydv22/LibraryManagementSystem.git
+ 2. **Import the Project:** Users can import the project into their preferred Java IDE (Integrated Development Environment) such as Eclipse, IntelliJ IDEA, or NetBeans.  
+ 3. **Run the Application:** Users can run the application from their IDE. Provide instructions on how to run the main class or start the application.
+ 4. **Use the Application:** Provide instructions on how to interact with the application once it's running. Explain how users can add, remove, update, and delete books from the library.
+ 5. You can Add the required data in command prompt.
+ 6. The Screen shot of project has been attached.
+
+
+  
   # Screen Shots
   ### To Add Book  
   ![Add Book](https://github.com/krishnaydv22/Library-Management-System/assets/78638214/4b15fe1a-c427-4123-acd1-282f67d6c5e8)  
